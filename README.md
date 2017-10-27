@@ -17,12 +17,12 @@ III. Rules:
   2. lint-staged: cannot commit if you have error in eslint
 
 
-III. Technology:
-  1.CSS: Styled-Components
-  2.Redux
-  3.Redux-Saga
-  4.Redux-auth-wrapper
-  5.reselect
-  6.whatwg-fetch
-  7.react-router-dom v4
+IV. Technology:
+  1. CSS: Styled-Components
+  2. Redux
+  3. Redux-Saga
+  4. Redux-auth-wrapper
+  5. reselect
+  6. whatwg-fetch
+  7. react-router-dom v4
   
