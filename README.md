@@ -10,3 +10,19 @@ I.Main structure of project:
 II. How to run:
   1. yarn install
   2. npm start
+
+
+III. Rules:
+  1. Eslint extend airbnb
+  2. lint-staged: cannot commit if you have error in eslint
+
+
+III. Technology:
+  1.CSS: Styled-Components
+  2.Redux
+  3.Redux-Saga
+  4.Redux-auth-wrapper
+  5.reselect
+  6.whatwg-fetch
+  7.react-router-dom v4
+  
